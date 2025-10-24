@@ -63,17 +63,24 @@
 ### 🎯 **CORE TECHNOLOGIES**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" /> -->
+  <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=pythonlibraries&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=ML&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=ML&logoColor=white&labelColor=000000" /> -->
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" /> 
+  <!-- [pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) -->
+
 </p>
 
 ### 🚀 **FRONTEND ECOSYSTEM**
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" />
+  
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000" /> -->
 </p>
 
 ### 🔥 **BACKEND UNIVERSE**
