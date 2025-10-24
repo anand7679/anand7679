@@ -6,7 +6,7 @@
 
 <!-- 🌌 Animated Matrix Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=4000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=⚡+Anand+KUMAR+SM;🚀+Data+Scientists;💻+ Python +%7C+REACT+%7C+ SQL;🌐+AI+%26+SPECIALIST;🎯+OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=36&duration=4000&pause=500&color=00F5FF&center=true&vCenter=true&width=800&lines=⚡+Anand+KUMAR+SM;🚀+Data+Scientists;💻+Python+%7C+REACT+%7C+SQL;🌐+AI+%26+SPECIALIST;🎯+OPEN+SOURCE+CONTRIBUTOR" alt="Typing SVG">
 </h1>
 
 <!-- 🌀 Holographic Gradient Border -->
