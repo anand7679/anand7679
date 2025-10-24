@@ -67,11 +67,9 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=pythonlibraries&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=ML&logoColor=white&labelColor=000000" /> -->
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" /> 
-  <!-- [pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) -->
-
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" /> 
+  <img src="hhttps://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Seaborn-0093D3?logo=seaborn&logoColor=white" /> 
 </p>
 
 ### 🚀 **FRONTEND ECOSYSTEM**
