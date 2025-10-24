@@ -1,6 +1,4 @@
-# 🚀 ULTRA-FUTURISTIC GITHUB PROFILE README (v3.0)
 
-```html
 <!-- 🚀 ULTRA-FUTURISTIC GITHUB PROFILE README (v3.0) -->
 <!-- Paste this directly in your http://README.md -->
 
