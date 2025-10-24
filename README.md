@@ -12,21 +12,21 @@
 
 ## 🧭 About Me
 
-```python
+
 class Developer:
     def __init__(self):
         http://self.name = "${Anand Kumar s m}"
-        self.role = "Full Stack Developer"
+        self.role = "Data Scientist"
         self.language_spoken = ["English", "Hindi"]
-        self.location = "${YOUR_LOCATION}"
-        self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
-        self.interests = ["Web Dev", "Open Source", "Automation"]
+        self.location = "${Mysore, India }"
+        self.learning = ["AI/ML", "Python", "Python-Library's"]
+        self.interests = ["Web Dev", "Open Source"]
 
     def say_hi(self):
         print("Thanks for visiting my profile!")
-````
 
----
+
+
 
 ## 🧠 Skills Dashboard
 
