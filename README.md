@@ -16,9 +16,6 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="[https://avatars.githubusercontent.com/arjun-dev-27?s=200](https://avatars.githubusercontent.com/u/192578995?s=400&u=351192c0d20a5bf21550826ef65fae16d3bdc262&v=4)" alt="Anand Kumar S M" style="border-radius: 50%; border: 3px solid #00F5FF; box-shadow: 0 0 25px #00F5FF; animation: float 3s ease-in-out infinite;" />
-    </td>
-    <td align="center" style="padding: 20px;">
       <div style="text-align: left;">
         <h3 style="color: #00F5FF; margin: 0;">🚀 STATUS: ACTIVE</h3>
         <p style="color: #FFFFFF; margin: 5px 0;">📍 Mysore, India</p>
