@@ -86,7 +86,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
    <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=Dax&logoColor=white" />
-  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" /> -->
+   <img src="https://img.shields.io/badge/M%20Language-0D6EFD?style=for-the-badge&logoColor=white" /> 
   <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" /> --> 
   
 </p> 
