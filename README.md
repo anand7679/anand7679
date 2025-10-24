@@ -36,13 +36,13 @@
     <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://github.com/anand7679" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" /> -->
+    <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   <a mailto:href="mailto:anandshetty7679@gmail.com" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" /> -->
+    <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://anand7679.github.io/ANAND_PORTFOLIO/" target="_blank">
-    <!-- <img src="https://img.shields.io/badge/🌐_Portfolio-00F5FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" /> -->
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00F5FF?style=for-the-badge&logo=netlify&logoColor=white&labelColor=000000" />
   </a>
   <!-- <a href="https://leetcode.com/arjun-dev-27" target="_blank">
     <img src="https://img.shields.io/badge/⚡_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" />
