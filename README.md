@@ -75,7 +75,7 @@
 ### 🚀 **FRONTEND ECOSYSTEM**
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=react&logo=html5&logoColor=white" />
   
   <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000" />
@@ -103,7 +103,7 @@
   <!-- <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" /> -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
-  <img src=" https://img.shields.io/badge/SQLYog-4E99CF?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000" />
+  <img src=" https://img.shields.io/badge/SQLYog-4E99CF?style=for-the-badge&logo=SQLYOG&logoColor=white&labelColor=000000" />
   
 
 </p>
