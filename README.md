@@ -16,7 +16,7 @@
 <table align="center">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://avatars.githubusercontent.com/arjun-dev-27?s=200" alt="Arjun Kumar" style="border-radius: 50%; border: 3px solid #00F5FF; box-shadow: 0 0 25px #00F5FF; animation: float 3s ease-in-out infinite;" />
+      <img src="https://avatars.githubusercontent.com/arjun-dev-27?s=200" alt="Anand Kumar S M" style="border-radius: 50%; border: 3px solid #00F5FF; box-shadow: 0 0 25px #00F5FF; animation: float 3s ease-in-out infinite;" />
     </td>
     <td align="center" style="padding: 20px;">
       <div style="text-align: left;">
