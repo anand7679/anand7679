@@ -21,9 +21,9 @@
     <td align="center" style="padding: 20px;">
       <div style="text-align: left;">
         <h3 style="color: #00F5FF; margin: 0;">🚀 STATUS: ACTIVE</h3>
-        <p style="color: #FFFFFF; margin: 5px 0;">📍 Bangalore, India</p>
-        <p style="color: #FFFFFF; margin: 5px 0;">💼 Open to Opportunities</p>
-        <p style="color: #FFFFFF; margin: 5px 0;">🎯 Focus: Full Stack & AI</p>
+        <p style="color: #FFFFFF; margin: 5px 0;">📍 Mysore, India</p>
+        <!-- <p style="color: #FFFFFF; margin: 5px 0;">💼 Open to Opportunities</p> -->
+        <p style="color: #FFFFFF; margin: 5px 0;">🎯 Focus: Data-Scientist</p>
       </div>
     </td>
   </tr>
