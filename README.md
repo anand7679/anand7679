@@ -152,7 +152,7 @@
 
 <!-- Project 1 -->
 <details>
-  <summary><b>🎯 SKILLSPRINT – AI-Powered Learning Platform</b></summary>
+  <summary><b>🎯 RFID >> Strong Room Authentication Using Two-Factor Level Security</b></summary>
   <br>
   <table>
     <tr>
