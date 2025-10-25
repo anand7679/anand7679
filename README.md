@@ -162,10 +162,9 @@
       <td width="50%" style="padding: 20px;">
         <h3 style="color: #00F5FF;">🌟 Key Features</h3>
         <ul style="color: #FFFFFF; text-align: left;">
-          <li>AI-driven personalized learning paths</li>
-          <li>Real-time progress analytics dashboard</li>
-          <li>Automated certificate generation system</li>
-          <li>Multi-tenant architecture with RBAC</li>
+          <li>To design and implement a secure strong room access control system using a two-factor authentication mechanism</li>
+          <li>, enhancing the protection of confidential documents </li>
+          <li>Key component > RFID Authentication, Superuser Approval, Security Buzzer</li>
         </ul>
         <h3 style="color: #00F5FF;">🛠️ Tech Stack</h3>
         <p>
