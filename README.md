@@ -381,7 +381,7 @@ dev = ArjunKumar()
       </a>
     </td>
     <td align="center">
-      <a href="mailto:anandshetty7679@gmail.com">
+      <a href="[Email Me](mailto:anandshetty7679@gmail.com)">
       <img src="https://img.shields.io/badge/📧_Collaborate_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="200"/>
       </a>
     </td>
