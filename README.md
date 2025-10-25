@@ -112,12 +112,12 @@
 </div>
 
 ---
-
+<!--
 ## 📊 PERFORMANCE DASHBOARD
 
-<div align="center">
+ <div align="center">
 
-<!-- GitHub Stats Grid -->
+GitHub Stats Grid
 <table align="center">
   <tr>
     <td align="center">
@@ -136,7 +136,7 @@
 
 </div>
 
----
+--- -->
 
 <!--  ## 🌌 CONTRIBUTION NEXUS
 
@@ -381,7 +381,7 @@ dev = ArjunKumar()
       </a>
     </td>
     <td align="center">
-      <a mailto:href="mailto:anadshetty6769@gmail.com">
+      <a mailto:href="https://mail.google.com/mail/u/0/#inbox">
         <img src="https://img.shields.io/badge/📧_Collaborate_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="200"/>
       </a>
     </td>
@@ -409,11 +409,11 @@ dev = ArjunKumar()
 
 **"The only way to do great work is to love what you do." - Steve Jobs**
 
-![GitHub Snake](https://raw.githubusercontent.com/arjun-dev-27/arjun-dev-27/output/github-contribution-grid-snake.svg)
+```![GitHub Snake](https://raw.githubusercontent.com/arjun-dev-27/arjun-dev-27/output/github-contribution-grid-snake.svg)```
 
 </div>
 
-<style>
+<!-- <style>
   @keyframes float {
     0% { transform: translateY(0px); }
     50% { transform: translateY(-10px); }
@@ -476,5 +476,6 @@ dev = ArjunKumar()
 - **Current focus** and learning paths
 
 This ultra-professional version maintains all futuristic elements while adding enterprise-level professionalism suitable for recruiters, collaborators, and the tech community! 
+ -->
 
 Oct 24 - 4:09 pm
