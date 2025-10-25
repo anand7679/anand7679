@@ -181,7 +181,7 @@
 
 <!-- Project 2 -->
 <details>
-  <summary><b>🏡 3D HOUSE VISUALIZER – Computer Vision Platform</b></summary>
+  <summary><b>✨ Sales-insights  – Comprehensive Dashboard</b></summary>
   <br>
   <table>
     <tr>
@@ -191,17 +191,16 @@
       <td width="50%" style="padding: 20px;">
         <h3 style="color: #00F5FF;">🌟 Key Features</h3>
         <ul style="color: #FFFFFF; text-align: left;">
-          <li>Real-time 3D rendering with OpenCV</li>
-          <li>Interactive room planning and design</li>
-          <li>AR integration for mobile preview</li>
-          <li>Material and lighting simulation</li>
+          <li>The profound understanding and analysis of a company's sales data</li>
+          <li>Power-BI/Data Cleaning & Transformation, ETL, Predictive Analytics</li>
+          <!-- <li>AR integration for mobile preview</li>
+          <li>Material and lighting simulation</li> -->
         </ul>
         <h3 style="color: #00F5FF;">🛠️ Tech Stack</h3>
         <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white">
-          <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white">
-          <img src="https://img.shields.io/badge/WebGL-990000?style=flat&logo=webgl&logoColor=white">
+         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+         <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=Dax&logoColor=white" />
+         <img src="https://img.shields.io/badge/M%20Language-0D6EFD?style=for-the-badge&logo=Mlanguage&logoColor=white" /> 
         </p>
       </td>
     </tr>
@@ -212,7 +211,7 @@
 
 <!-- Project 3 -->
 <details>
-  <summary><b>⚡ FASTAPI MICROSERVICES – Enterprise Backend</b></summary>
+  <summary><b>⚡ Risk Analysis in Banking Domin </b></summary>
   <br>
   <table>
     <tr>
@@ -222,17 +221,17 @@
       <td width="50%" style="padding: 20px;">
         <h3 style="color: #00F5FF;">🌟 Key Features</h3>
         <ul style="color: #FFFFFF; text-align: left;">
-          <li>Microservices architecture with API Gateway</li>
-          <li>JWT authentication & role-based access</li>
-          <li>Real-time WebSocket communication</li>
-          <li>Docker containerization & Kubernetes</li>
+          <li>Results-driven Data Analyst project</li>
+          <li>Connected to multiple data sources (e.g., SQL Server, Excel) to consolidate customer, transaction, and financial data.</li>
+          <li>Developed complex DAX measures to calculate critical KPIs, such as debt-to-income ratio</li>
+          <li>Created dynamic visualizations, including interactive charts and maps, to present complex financial data</li>
         </ul>
         <h3 style="color: #00F5FF;">🛠️ Tech Stack</h3>
         <p>
-          <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white">
-          <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+          <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+          <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=Dax&logoColor=white" />
+          <img src="https://img.shields.io/badge/M%20Language-0D6EFD?style=for-the-badge&logo=Mlanguage&logoColor=white" /> 
         </p>
       </td>
     </tr>
@@ -252,8 +251,8 @@
     <td width="33%" align="center">
       <h3 style="color: #00F5FF;">🚀 Short Term</h3>
       <ul style="color: #FFFFFF; text-align: left;">
-        <li>Master Advanced System Design</li>
-        <li>Learn Kubernetes in Depth</li>
+        <li>Master Advanced System Analysis </li>
+        <li>Learn </li>
         <li>Contribute to Open Source</li>
         <li>Build SaaS Product</li>
       </ul>
