@@ -404,7 +404,7 @@ dev = ArjunKumar()
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=120&section=footer&text=Keep+Coding+Keep+Innovating!&fontSize=20&fontColor=FFFFFF" width="100%"/>
 
 <p> 
-  <img src="https://komarev.com/ghpvc/?username=arjun-dev-27&label=PROFILE+VISITORS&color=00F5FF&style=for-the-badge" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=anandshetty7679&label=PROFILE+VISITORS&color=00F5FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 **"The only way to do great work is to love what you do." - Steve Jobs**
