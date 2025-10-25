@@ -138,13 +138,13 @@
 
 ---
 
-## 🌌 CONTRIBUTION NEXUS
+<!--  ## 🌌 CONTRIBUTION NEXUS
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-dev-27&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=✨+CONTRIBUTION+MATRIX&title_color=00F5FF&area_color=00F5FF" width="95%"/>
 </div>
 
----
+----->
 
 ## 🚀 FEATURED PROJECT SHOWCASE
 
@@ -242,9 +242,9 @@
 
 ---
 
-## 🎯 CURRENT FOCUS & GOALS
+<!--## 🎯 CURRENT FOCUS & GOALS
 
-<div align="center">
+ <div align="center">
 
 <table width="100%">
   <tr>
@@ -280,17 +280,17 @@
 
 </div>
 
----
+--- -->
 
 ## 📈 SKILL MATRIX ANALYTICS
 
 ```text
-PYTHON        ████████████████████░░░░   85%  [DJANGO, FASTAPI, DATA SCIENCE]
-JAVASCRIPT    ████████████████░░░░░░░   75%  [REACT, NODE.JS, TYPESCRIPT]
-CLOUD/AWS     ████████████░░░░░░░░░░░   60%  [EC2, S3, LAMBDA, RDS]
-DEVOPS        █████████░░░░░░░░░░░░░░   45%  [DOCKER, KUBERNETES, CI/CD]
-DATABASES     █████████████░░░░░░░░░░   65%  [POSTGRESQL, MONGODB, REDIS]
-AI/ML         ████████░░░░░░░░░░░░░░░   40%  [TENSORFLOW, OPENCV, NLP]
+PYTHON               ████████████████████░░░░  85%  
+Power BI             ████████████████░░░░░░░   85%  
+SQL                  ████████████████████░░░░  85%  
+HTML                 █████████░░░░░░░░░░░░░░   45%
+Python Libraries     █████████████░░░░░░░░░░   65%
+AI/ML                ████████░░░░░░░░░░░░░░░   40%  
 ```
 
 ---
