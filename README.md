@@ -381,8 +381,8 @@ dev = ArjunKumar()
       </a>
     </td>
     <td align="center">
-      <a mailto:href="https://mail.google.com/mail/u/0/#inbox">
-        <img src="https://img.shields.io/badge/📧_Collaborate_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="200"/>
+      <a href="mailto:anandshetty7679@gmail.com">Email Me</a>
+      <img src="https://img.shields.io/badge/📧_Collaborate_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="200"/>
       </a>
     </td>
     <td align="center">
@@ -409,11 +409,13 @@ dev = ArjunKumar()
 
 **"The only way to do great work is to love what you do." - Steve Jobs**
 
-```![GitHub Snake](https://raw.githubusercontent.com/arjun-dev-27/arjun-dev-27/output/github-contribution-grid-snake.svg)```
 
 </div>
 
-<!-- <style>
+<!-- 
+![GitHub Snake](https://raw.githubusercontent.com/arjun-dev-27/arjun-dev-27/output/github-contribution-grid-snake.svg)
+
+<style>
   @keyframes float {
     0% { transform: translateY(0px); }
     50% { transform: translateY(-10px); }
