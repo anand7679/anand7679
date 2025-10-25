@@ -163,15 +163,14 @@
         <h3 style="color: #00F5FF;">🌟 Key Features</h3>
         <ul style="color: #FFFFFF; text-align: left;">
           <li>To design and implement a secure strong room access control system using a two-factor authentication mechanism</li>
-          <li>, enhancing the protection of confidential documents </li>
+          <li>Enhancing the protection of confidential documents </li>
           <li>Key component > RFID Authentication, Superuser Approval, Security Buzzer</li>
         </ul>
         <h3 style="color: #00F5FF;">🛠️ Tech Stack</h3>
         <p>
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+          <img src="https://img.shields.io/badge/WinForms-379EF2?style=for-the-badge&logoColor=white" alt="WinForms Badge" />
+          <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge" />
+          <img src="https://img.shields.io/badge/HeidiSQL-379FE4?style=for-the-badge&logoColor=white" alt="HeidiSQL Badge" />
         </p>
       </td>
     </tr>
