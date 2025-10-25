@@ -286,7 +286,7 @@
 
 ```text
   PYTHON               ████████████████████░░░░  85%  
-  Power BI             ████████████████████░░░░    85%  
+  Power BI             ████████████████████░░░░  85%  
 SQL                  ████████████████████░░░░  85%
 HTML                 █████████░░░░░░░░░░░░░░   45%
 Python Libraries     █████████████░░░░░░░░░░   65%
@@ -295,21 +295,20 @@ Python Libraries     █████████████░░░░░░�
 
 ---
 
-## 🌟 RECENT ACTIVITY STREAM
+<!--## 🌟 RECENT ACTIVITY STREAM
 
-<!--START_SECTION:activity-->
+START_SECTION:activity
 1. 🔥 **Pushed** major updates to [SkillSprint Platform] - Added AI recommendations  
 2. 🎯 **Merged PR** [#15] in [FastAPI-Microservices] - Implemented Redis caching  
 3. 🚀 **Deployed** [3D-House-Visualizer] v2.0 with AR features  
 4. 💡 **Started** new open-source project [DevOps-Toolkit]  
 5. 📚 **Learning** Advanced Kubernetes patterns and service mesh  
-<!--END_SECTION:activity-->
 
 ---
+-->
+<!--## 🏆 ACHIEVEMENTS & CERTIFICATIONS
 
-## 🏆 ACHIEVEMENTS & CERTIFICATIONS
-
-<div align="center">
+ <div align="center">
 
 <table>
   <tr>
@@ -338,13 +337,13 @@ Python Libraries     █████████████░░░░░░�
 
 </div>
 
----
+--- -->
 
-## 💫 QUICK FACTS
+<!-- ## 💫 QUICK FACTS
 
-<div align="center">
+<div align="center"> 
 
-```python
+python
 class ArjunKumar:
     def __init__(self):
         http://self.name = "Arjun Kumar"
@@ -364,11 +363,11 @@ class ArjunKumar:
         return "Let's build something amazing together! 🚀"
 
 dev = ArjunKumar()
-```
+-->
 
-</div>
+<!-- </div>
 
----
+--- -->
 
 ## 📞 CONNECT WITH ME
 
@@ -377,17 +376,17 @@ dev = ArjunKumar()
 <table>
   <tr>
     <td align="center">
-      <a href="https://linkedin.com/in/arjun-kumar-dev">
+      <a href="https://www.linkedin.com/in/anand-kumar-s-m-030939341/">
         <img src="https://img.shields.io/badge/💼_Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="200"/>
       </a>
     </td>
     <td align="center">
-      <a mailto:href="mailto:arjun.kumar.dev@gmail.com">
+      <a mailto:href="mailto:anadshetty6769@gmail.com">
         <img src="https://img.shields.io/badge/📧_Collaborate_Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="200"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://arjun-dev-portfolio.netlify.app">
+      <a href="https://anand7679.github.io/ANAND_PORTFOLIO/">
         <img src="https://img.shields.io/badge/🌐_View_Portfolio-00F5FF?style=for-the-badge&logo=netlify&logoColor=white" width="200"/>
       </a>
     </td>
